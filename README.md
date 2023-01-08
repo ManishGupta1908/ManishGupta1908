@@ -9,7 +9,7 @@
 
 - 🤝 LinkdIn Profile [https://www.linkedin.com/in/manish-gupta-bb657b217](https://www.linkedin.com/in/manish-gupta-bb657b217)
 
-- 💬 Ask me about **HTML,JavaScript,CSS,React,Chakra UI,MongoDB,Node.js,Express**
+- 💬 Ask me about **HTML, JavaScript, CSS, React, Chakra UI, MongoDB, Node.js, Express.js**
 
 - 📫 How to reach me **manscans16@gmail.com**
 
