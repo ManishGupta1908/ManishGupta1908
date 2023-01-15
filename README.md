@@ -5,7 +5,7 @@
 
 - 🌍  I’m from Sonbhadra, Uttar Pradesh.
 
-- 👯 All of my Projects are available at [https://manscans.github.io/](https://manscans.github.io/)
+- 👯 All of my Projects are available at [https://ManishGupta1908.github.io/](https://ManishGupta1908.github.io/)
 
 - 🤝 LinkdIn Profile [https://www.linkedin.com/in/manish-gupta-bb657b217](https://www.linkedin.com/in/manish-gupta-bb657b217)
 
