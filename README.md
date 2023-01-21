@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupta</h1>
 <h3 align="center">Aspiring Full Stack Web Developer with 1000+ hour of coding practice and always ready for learning new things</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhaveshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="Manish Kumar Gupta" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ManishGupta1908&label=Profile%20views&color=0e75b6&style=flat" alt="Manish Kumar Gupta" /> </p>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="manscans" /> </p>
 
